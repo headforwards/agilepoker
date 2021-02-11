@@ -12,8 +12,9 @@ XCode
 Android Studio:
 https://developer.android.com/studio
 
-Beware AMD Processors:
+Beware AMD Processors 1:
 https://github.com/google/android-emulator-hypervisor-driver-for-amd-processors
+Beware AMD Processors 2:
 https://unicorn-utterances.com/posts/android-studio-setup-for-ryzen-cpus/
 
 
