@@ -22,4 +22,6 @@ https://unicorn-utterances.com/posts/android-studio-setup-for-ryzen-cpus/
 React Native
 https://reactnative.dev/docs/environment-setup
 
+(you may need to set powershell execution policy e.g. Set-ExecutionPolicy -ExecutionPolicy RemoteSigned)
+
 
